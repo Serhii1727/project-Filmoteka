@@ -2,20 +2,20 @@
   "name": "dervi-filmoteka",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://sigizmunde.github.io/dervi-filmoteka",
+  "homepage": "https://Serhii1727.github.io/project-Filmoteka",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /dervi-filmoteka/"
+    "build": "parcel build src/*.html --public-url /project-Filmoteka/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sigizmunde/dervi-filmoteka"
+    "url": "git+https://github.com/Serhii1727/project-Filmoteka"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sigizmunde/dervi-filmoteka"
+    "url": "https://github.com/Serhii1727/project-Filmoteka"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0",
